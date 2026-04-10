@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>News | 1111 Media Group</title>
+	<atom:link href="https://1111mediagroup.com/category/news/feed/" rel="self" type="application/rss+xml" />
+	<link>https://1111mediagroup.com</link>
+	<description>Miami Digital Marketing &#38; Web Design Agency</description>
+	<lastBuildDate>Thu, 01 May 2025 11:49:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.4</generator>
+
+<image>
+	<url>https://1111mediagroup.com/wp-content/uploads/2024/08/cropped-1111_favicon-32x32.webp</url>
+	<title>News | 1111 Media Group</title>
+	<link>https://1111mediagroup.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>We&#8217;ve Got A New Look &#8211; The Story Behind Our Rebrand</title>
+		<link>https://1111mediagroup.com/2024/01/01/the-story-behind-our-rebrand/</link>
+		
+		<dc:creator><![CDATA[1111mediagroup]]></dc:creator>
+		<pubDate>Mon, 01 Jan 2024 17:48:50 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://1111mediagroup.com/?p=36790</guid>
+
+					<description><![CDATA[<p>We’ve got a new look! That’s right, our company has undergone a rebranding process, and we can’t wait to tell you all about it</p>
+<p>The post <a href="https://1111mediagroup.com/2024/01/01/the-story-behind-our-rebrand/">We’ve Got A New Look – The Story Behind Our Rebrand</a> first appeared on <a href="https://1111mediagroup.com">1111 Media Group</a>.</p>]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="36790" class="elementor elementor-36790" data-elementor-post-type="post">
+				<div class="elementor-element elementor-element-9eeace6 e-con-full e-flex e-con e-parent" data-id="9eeace6" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-f727ed3 e-flex e-con-boxed e-con e-child" data-id="f727ed3" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-6433ca1 e-con-full e-flex e-con e-child" data-id="6433ca1" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-56d6578 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="56d6578" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-title.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">We&#8217;ve Got A New Look &#8211; The Story Behind Our Rebrand.</h1>				</div>
+				</div>
+		<div class="elementor-element elementor-element-83ced76 e-con-full e-flex e-con e-child" data-id="83ced76" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-7e5d8b5 elementor-widget elementor-widget-author-box" data-id="7e5d8b5" data-element_type="widget" data-e-type="widget" data-widget_type="author-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-author-box">
+							<div  class="elementor-author-box__avatar">
+					<img decoding="async" src="https://1111mediagroup.com/wp-content/uploads/2024/08/Sarah_author.jpg" alt="Picture of Author" loading="lazy">
+				</div>
+			
+			<div class="elementor-author-box__text">
+									<div >
+						<h4 class="elementor-author-box__name">
+							Author						</h4>
+					</div>
+				
+									<div class="elementor-author-box__bio">
+						<p>Sarah Perez</p>
+					</div>
+				
+							</div>
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-219b59b e-con-full e-flex e-con e-child" data-id="219b59b" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-d240cd1 elementor-widget elementor-widget-text-editor" data-id="d240cd1" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Published</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-7237610 elementor-align-left elementor-widget elementor-widget-post-info" data-id="7237610" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-4d6f3d2 elementor-inline-item" itemprop="datePublished">
+						<a href="https://1111mediagroup.com/2024/01/01/">
+														<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+										<time>January 1, 2024</time>					</span>
+									</a>
+				</li>
+				</ul>
+						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-b2e8e1f e-con-full e-flex e-con e-child" data-id="b2e8e1f" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-2389832 elementor-widget elementor-widget-pp-breadcrumbs" data-id="2389832" data-element_type="widget" data-e-type="widget" data-settings="{&quot;breadcrumbs_type&quot;:&quot;powerpack&quot;}" data-widget_type="pp-breadcrumbs.default">
+				<div class="elementor-widget-container">
+					<ul class="pp-breadcrumbs pp-breadcrumbs-powerpack">		<li class="pp-breadcrumbs-item pp-breadcrumbs-item-home">
+			<a class="pp-breadcrumbs-crumb pp-breadcrumbs-crumb-link pp-breadcrumbs-crumb-home" href="https://1111mediagroup.com" title="Home">
+				<span class="pp-breadcrumbs-text">
+										Home				</span>
+			</a>
+		</li>
+		<li class="pp-breadcrumbs-separator">				<span class='pp-separator-icon pp-icon'>
+					<i aria-hidden="true" class="fas fa-angle-right"></i>				</span>
+				</li><li class="pp-breadcrumbs-item pp-breadcrumbs-item-current pp-breadcrumbs-item-cat"><strong class="pp-breadcrumbs-crumb pp-breadcrumbs-crumb-current pp-breadcrumbs-crumb-cat">News</strong></li></ul>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-68d8639 e-con-full e-flex e-con e-child" data-id="68d8639" data-element_type="container" data-e-type="container">
+				</div>
+					</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4ab243e3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4ab243e3" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-40ff984f" data-id="40ff984f" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5c5e3306 elementor-widget elementor-widget-text-editor" data-id="5c5e3306" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Today, we are thrilled to share with you an exciting announcement – we’ve got a new look! That’s right, our company has undergone a rebranding process, and we can’t wait to tell you all about it. From our revamped logo to our fresh website design, every aspect of our brand has been carefully crafted to reflect who we are and what we stand for. We sat down with Chad Barber, Digital Marketing Director &amp; Founder, and Laura Alfonso, Creative Director &amp; Co-Founder at 1111 Media Group—to discuss what inspired the rebrand and what’s next.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-8c54bd3 elementor-widget elementor-widget-heading" data-id="8c54bd3" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Why we decided to rebrand</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1f7c7ce elementor-widget elementor-widget-text-editor" data-id="1f7c7ce" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Our decision to embark on a rebranding journey was not taken lightly. After careful consideration and in-depth team discussions, we realized it was time for our company to evolve and embrace a new identity. <em><strong>“The world around us is constantly changing, and as a digital marketing agency, we needed to adapt and stay relevant.&#8221;</strong></em></p><p>One of the main reasons behind our rebranding was the need to better align our visual identity with our core values and mission. Our previous logo no longer captured the essence of who we are as an agency, so we decided to create something that truly represents us.</p><p>Another factor that influenced our decision was the desire for differentiation in an increasingly crowded marketplace. We wanted our brand to stand out from the competition, to be memorable and instantly recognizable. A fresh look would help us do just that.</p><p>Moreover, as we expanded into new markets and introduced new services, it became clear that our existing branding didn’t effectively communicate these changes. It was crucial for us to have a brand image that accurately reflected what we offer.</p><p>Rebranding symbolizes growth, innovation, and adaptability – qualities that are fundamental in today’s ever-changing digital marketing landscape. By embracing change head-on through this rebranding process, we’re setting ourselves up for continued success in the future.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-2024aec elementor-widget elementor-widget-heading" data-id="2024aec" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">What Our New Logo Represents</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-125e8eb elementor-widget elementor-widget-text-editor" data-id="125e8eb" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Our new logo is more than just a fresh design. It represents our company’s evolution and growth. It embodies our core values, vision, and mission in a visually striking way.</p><p><em><strong>“Our company name 1111 Media Group references the popular folklore surrounding the magical hour of 11:11, when it is said that making a wish at that specific time will result in it coming true. We believe that every business has the potential to make their dreams come true, and we are here to help them make it happen! – We wanted our logo to reflect that message</strong><strong>.&#8221;</strong></em> Our logo features vibrant purple and green colors that symbolize our energy, creativity, and passion for innovation.</p><p>This versatility allows us to connect with diverse audiences who may have different interpretations but share the common understanding that we are a dynamic and forward-thinking <strong><a href="https://guides.loc.gov/marketing-industry/agencies">digital marketing agency</a></strong>.</p><p>Our new logo communicates strength, reliability, and modernity – qualities that we strive to deliver through all aspects of our business. It serves as a visual anchor for our brand identity while leaving room for interpretation by those who encounter it.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-7d5089d elementor-widget elementor-widget-image" data-id="7d5089d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img fetchpriority="high" decoding="async" width="1600" height="840" src="https://1111mediagroup.com/wp-content/uploads/2024/07/blog-logos-01.webp" class="attachment-full size-full wp-image-36794" alt="1111 Media Group" srcset="https://1111mediagroup.com/wp-content/uploads/2024/07/blog-logos-01.webp 1600w, https://1111mediagroup.com/wp-content/uploads/2024/07/blog-logos-01-300x158.webp 300w, https://1111mediagroup.com/wp-content/uploads/2024/07/blog-logos-01-1024x538.webp 1024w, https://1111mediagroup.com/wp-content/uploads/2024/07/blog-logos-01-768x403.webp 768w, https://1111mediagroup.com/wp-content/uploads/2024/07/blog-logos-01-1536x806.webp 1536w" sizes="(max-width: 1600px) 100vw, 1600px" title="blog-logos-01 | 1111 Media Group" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-b0bf3ec elementor-widget elementor-widget-heading" data-id="b0bf3ec" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">How Our New Website Reflects Our Brand</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-99a7c5a elementor-widget elementor-widget-text-editor" data-id="99a7c5a" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Our new <strong><a href="https://1111mediagroup.com/web-design/">website design</a></strong> is a true reflection of our brand identity and values. With its clean, modern design, intuitive navigation, and user-friendly interface, it embodies the simplicity and efficiency that we strive for in everything we do.</p><p>The <strong><a href="https://1111mediagroup.com/">homepage</a></strong> welcomes visitors with a striking visual representation of our logo, instantly capturing attention and setting the tone for what they can expect from a partnership with 1111 Media Group. As they explore further, they will find that every aspect of the website has been carefully crafted to enhance their experience.</p><p>Our brand colors are seamlessly integrated throughout the site, creating a cohesive look and feel. The use of white space allows important elements to stand out while providing a sense of elegance and sophistication.</p><p>In terms of functionality, our website is highly responsive and optimized for all devices. Whether you’re accessing it from a desktop computer or a mobile device, you can expect a seamless browsing experience.</p><p>We have also made sure that our content is easily accessible and engaging. From our services, to informative blog posts and visuals, we aim to provide valuable information while keeping visitors entertained.</p><p>Our new website truly exemplifies who we are as a digital marketing agency – modern yet approachable, innovative yet reliable. It showcases our commitment to excellence in every aspect of our business while ensuring an enjoyable user experience for all who visit us online.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-ed896ed elementor-widget elementor-widget-heading" data-id="ed896ed" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">What's Next For 1111 Media Group</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1faeeda elementor-widget elementor-widget-text-editor" data-id="1faeeda" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>As we embark on this exciting new chapter with our rebrand, the future looks bright for our company. We are committed to continuously evolving and improving, not only in terms of our brand identity but also in the <strong><a href="https://1111mediagroup.com/paid-search-advertising/">services we provide to our clients</a></strong>.</p><p>With our fresh new look, we aim to <strong><a href="https://1111mediagroup.com/video-production/">attract more clients</a></strong> who resonate with our values and vision. Our rebrand represents a renewed commitment to delivering exceptional quality and value to all those who choose to work with us.</p><p>Moving forward, we will be focusing on expanding our reach and exploring new opportunities for growth. This includes expanding into new markets, developing new innovative solutions, and staying ahead of industry trends.</p><p>We also believe in giving back to the community that has supported us throughout this journey. As part of our corporate social responsibility efforts, we plan to initiate various initiatives aimed at making a positive impact on society.</p><p>In conclusion…</p><p>Our decision to rebrand was not taken lightly. It was driven by a desire to better reflect who we are as a company and what we stand for. Through careful consideration and creative collaboration, we have created a brand identity that we’re proud of, and truly represents us.</p><p>We invite you all to explore our new website and experience firsthand how it reflects our refreshed brand image. We hope you <strong><a href="https://1111mediagroup.com/seo-services/">find it engaging, user-friendly</a></strong>, and informative.</p><p>Thank you for being part of this exciting moment in our company’s history. We appreciate your continued support as we take bold steps towards an even brighter future!</p><p><em><strong>“Keep an eye out for upcoming announcements, as there is much more in store for us! Together, let’s embrace change while remaining true to ourselves – because at 1111 Media Group, innovation and growth never stops!”</strong></em> says Chad Barber.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div><p>The post <a href="https://1111mediagroup.com/2024/01/01/the-story-behind-our-rebrand/">We’ve Got A New Look – The Story Behind Our Rebrand</a> first appeared on <a href="https://1111mediagroup.com">1111 Media Group</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>2023 National and Local Excellence Award Winner by UpCity!</title>
+		<link>https://1111mediagroup.com/2023/03/10/2023-national-winner-by-upcity/</link>
+		
+		<dc:creator><![CDATA[1111mediagroup]]></dc:creator>
+		<pubDate>Fri, 10 Mar 2023 18:06:17 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://1111mediagroup.com/?p=36809</guid>
+
+					<description><![CDATA[<p>We are thrilled to announce that 1111 Media Group has been recognized as a 2023 National and Local Excellence Award Winner by UpCity!</p>
+<p>The post <a href="https://1111mediagroup.com/2023/03/10/2023-national-winner-by-upcity/">2023 National and Local Excellence Award Winner by UpCity!</a> first appeared on <a href="https://1111mediagroup.com">1111 Media Group</a>.</p>]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="36809" class="elementor elementor-36809" data-elementor-post-type="post">
+				<div class="elementor-element elementor-element-9eeace6 e-con-full e-flex e-con e-parent" data-id="9eeace6" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-f727ed3 e-flex e-con-boxed e-con e-child" data-id="f727ed3" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-6433ca1 e-con-full e-flex e-con e-child" data-id="6433ca1" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-56d6578 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="56d6578" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-title.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">2023 National and Local Excellence Award Winner by UpCity!.</h1>				</div>
+				</div>
+		<div class="elementor-element elementor-element-83ced76 e-con-full e-flex e-con e-child" data-id="83ced76" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-7e5d8b5 elementor-widget elementor-widget-author-box" data-id="7e5d8b5" data-element_type="widget" data-e-type="widget" data-widget_type="author-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-author-box">
+							<div  class="elementor-author-box__avatar">
+					<img decoding="async" src="https://1111mediagroup.com/wp-content/uploads/2024/08/Sarah_author.jpg" alt="Picture of Author" loading="lazy">
+				</div>
+			
+			<div class="elementor-author-box__text">
+									<div >
+						<h4 class="elementor-author-box__name">
+							Author						</h4>
+					</div>
+				
+									<div class="elementor-author-box__bio">
+						<p>Sarah Perez</p>
+					</div>
+				
+							</div>
+		</div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-219b59b e-con-full e-flex e-con e-child" data-id="219b59b" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-d240cd1 elementor-widget elementor-widget-text-editor" data-id="d240cd1" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Published</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-7237610 elementor-align-left elementor-widget elementor-widget-post-info" data-id="7237610" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-4d6f3d2 elementor-inline-item" itemprop="datePublished">
+						<a href="https://1111mediagroup.com/2023/03/10/">
+														<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+										<time>March 10, 2023</time>					</span>
+									</a>
+				</li>
+				</ul>
+						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-b2e8e1f e-con-full e-flex e-con e-child" data-id="b2e8e1f" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-2389832 elementor-widget elementor-widget-pp-breadcrumbs" data-id="2389832" data-element_type="widget" data-e-type="widget" data-settings="{&quot;breadcrumbs_type&quot;:&quot;powerpack&quot;}" data-widget_type="pp-breadcrumbs.default">
+				<div class="elementor-widget-container">
+					<ul class="pp-breadcrumbs pp-breadcrumbs-powerpack">		<li class="pp-breadcrumbs-item pp-breadcrumbs-item-home">
+			<a class="pp-breadcrumbs-crumb pp-breadcrumbs-crumb-link pp-breadcrumbs-crumb-home" href="https://1111mediagroup.com" title="Home">
+				<span class="pp-breadcrumbs-text">
+										Home				</span>
+			</a>
+		</li>
+		<li class="pp-breadcrumbs-separator">				<span class='pp-separator-icon pp-icon'>
+					<i aria-hidden="true" class="fas fa-angle-right"></i>				</span>
+				</li><li class="pp-breadcrumbs-item pp-breadcrumbs-item-current pp-breadcrumbs-item-cat"><strong class="pp-breadcrumbs-crumb pp-breadcrumbs-crumb-current pp-breadcrumbs-crumb-cat">News</strong></li></ul>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-68d8639 e-con-full e-flex e-con e-child" data-id="68d8639" data-element_type="container" data-e-type="container">
+				</div>
+					</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4ab243e3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4ab243e3" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-40ff984f" data-id="40ff984f" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5c5e3306 elementor-widget elementor-widget-text-editor" data-id="5c5e3306" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><strong>We are thrilled to announce that 1111 Media Group has been recognized as a 2023 National and Local <a href="https://upcity.com/excellence#year=2023&amp;type=National&amp;country=United%20States&amp;spotlight=local-marketing-agencies/profiles/1111-media-group/locations/1111-media-group">Excellence Award Winner</a> by UpCity! This prestigious award recognizes our commitment to providing outstanding digital marketing services to our clients. </strong></p><p>The National and Local Excellence Awards are prestigious awards given to companies that excel in their field. These awards recognize excellence in digital marketing, including <strong><a href="https://1111mediagroup.com/seo-services/">search engine optimization (SEO)</a></strong>, <strong><a href="https://1111mediagroup.com/paid-search-advertising/">pay-per-click advertising (PPC)</a></strong>, <strong><a href="https://1111mediagroup.com/social-media-management/">social media management</a></strong>, <strong><a href="https://1111mediagroup.com/social-media-management/">content creation</a></strong>, and more.</p><p>UpCity is a leading online marketplace for businesses seeking marketing services. They evaluate thousands of companies based on criteria such as customer satisfaction, industry expertise, and overall reputation. Winners of the National and Local Excellence Awards are chosen based on these evaluations.</p><p>At 1111 Media Group, we’re proud to have been recognized by UpCity as a <strong><a href="https://upcity.com/excellence#year=2023&amp;type=National&amp;country=United%20States&amp;spotlight=local-marketing-agencies/profiles/1111-media-group/locations/1111-media-group">winner</a></strong> of these coveted awards for four years in a row. It’s an honor to be acknowledged for our hard work and dedication to providing exceptional service to our clients.</p><p>We believe that receiving this recognition speaks volumes about the quality of our team and the results we deliver. Our commitment to staying up-to-date with emerging trends and technologies allows us to stay ahead of the curve when it comes to digital marketing strategies.</p><p>Ultimately, winning these awards is not only a testament to our own success but also evidence that we can <strong><a href="https://www.sba.gov/business-guide/plan-your-business/market-research-competitive-analysis">help you achieve your business goals</a></strong> too!</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-7d5089d elementor-widget elementor-widget-image" data-id="7d5089d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1024" height="538" src="https://1111mediagroup.com/wp-content/uploads/2023/03/Award-Winner-Upcity-2023-01-1-1024x538-1.webp" class="attachment-full size-full wp-image-36811" alt="Award-Winner-Upcity-2023" srcset="https://1111mediagroup.com/wp-content/uploads/2023/03/Award-Winner-Upcity-2023-01-1-1024x538-1.webp 1024w, https://1111mediagroup.com/wp-content/uploads/2023/03/Award-Winner-Upcity-2023-01-1-1024x538-1-300x158.webp 300w, https://1111mediagroup.com/wp-content/uploads/2023/03/Award-Winner-Upcity-2023-01-1-1024x538-1-768x404.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" title="Award-Winner-Upcity-2023-01-1-1024x538 | 1111 Media Group" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-8c54bd3 elementor-widget elementor-widget-heading" data-id="8c54bd3" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">What does this mean for 1111 Media Group’s clients?</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1f7c7ce elementor-widget elementor-widget-text-editor" data-id="1f7c7ce" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Being recognized with the National and Local <strong><a href="https://upcity.com/excellence#year=2023&amp;type=National&amp;country=United%20States&amp;spotlight=local-marketing-agencies/profiles/1111-media-group/locations/1111-media-group">Excellence Awards</a></strong> by UpCity is a big achievement for 1111 Media Group. But what does this mean for their clients?</p><p>Firstly, it means that they are working with an agency that has been acknowledged as one of the best in their industry. This should give clients peace of mind knowing that they are receiving top-quality service from experienced professionals who know how to get results.</p><p>It also means that 1111 Media Group is committed to providing exceptional customer service. They understand the importance of building strong relationships with their clients, which is why they focus on communication and collaboration throughout every project.</p><p>Clients can expect innovative solutions tailored to meet their unique needs. With a team of experts at hand, 1111 Media Group can offer a range of services including SEO, <strong><a href="https://1111mediagroup.com/paid-social-advertising/">PPC advertising</a></strong>, social media management and more.</p><p>Being named a National and Local Excellence Award Winner reflects positively on 1111 Media Group’s ability to deliver outstanding results for its clients. It’s no wonder why so many businesses choose them as their digital marketing partner!</p><p>If you’re interested in learning more about how 1111 Media Group can help take your business to the next level, don’t hesitate to <strong><a href="https://1111mediagroup.com/contact-us/">contact us</a> </strong>today! Experience award-winning digital marketing services <strong><a href="https://1111mediagroup.com">with 1111 Media Group</a></strong> – where excellence meets creativity!</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div><p>The post <a href="https://1111mediagroup.com/2023/03/10/2023-national-winner-by-upcity/">2023 National and Local Excellence Award Winner by UpCity!</a> first appeared on <a href="https://1111mediagroup.com">1111 Media Group</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
